@@ -1,10 +1,17 @@
 # Laptop_Price_Prediction_System
+
+## Introduction
+
+• Welcome to the Laptop Price Predictor, a machine learning-based web application that helps you predict the price of a laptop based on its specifications. With this app, you can get an estimate of how much you should expect to pay for a particular laptop, based on its brand, processor, RAM, storage, and other key features.
+
 • In this project, a supervised machine learning model is built to predict tentative laptop price based on its specifications.
 
-• Web-based application that predicts the price of the laptop according to the configuration input by user.
+• Whether you are a student, professional, or just someone looking to buy a new laptop, the Laptop Price Predictor can help you make informed decisions and find the best deal. Try it out today and see how accurate it can be!
+
+• This laptop price predictor web app has been successfully deployed to a hosting platform ( https://share.streamlit.io/ ), allowing users to access it online from anywhere in the world.
 
 ## Live Demo
-👉 **https://laptop-price-prediction-project-by-dinesh.onrender.com**
+👉 **https://i-am-dinesh-laptop-price-prediction-system-app-9764ps.streamlit.app/**
 
 # Business Problem
 Predict the Price of laptop on the basis of
@@ -15,12 +22,6 @@ Content, Company Name, Product Name, Laptop Type, Screen Inches, Screen Resoluti
 
 Machine Leaning Problem
 It is a Regresion problem, for a given columns we need to predict the price of laptop.
-
-Performance Metric
-
-1. R2 Score
-
-2. Mean Absolute Error
 
 # Display
 
