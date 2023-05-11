@@ -187,13 +187,13 @@ if (selected == "GitHub"):
     st.write('* <span style="font-size: 20px">The code for the project has been uploaded to a GitHub repository for sharing and collaboration.</span>', unsafe_allow_html=True)
      
 
-    url = 'https://github.com/i-am-dinesh/Laptop_Price_Prediction_Project'
+    url = 'https://github.com/i-am-dinesh/'
 
     st.markdown(f'👉 [Click here]({url}) To Visit.')
 
     st.write('* <span style="font-size: 20px">The project has been deployed and is accessible through a given URL. </span>', unsafe_allow_html=True)
 
-    url = 'https://laptop-price-prediction-project-by-dinesh.onrender.com/'
+    url = 'https://i-am-dinesh-laptop-price-prediction-system-app-9764ps.streamlit.app/'
 
     st.markdown(f'👉 [Click here]({url}) To Visit.')
 
