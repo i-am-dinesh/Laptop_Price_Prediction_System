@@ -10,7 +10,7 @@
 
 • This laptop price predictor web app has been successfully deployed to a hosting platform ( https://share.streamlit.io/ ), allowing users to access it online from anywhere in the world.
 
-## Live Demo
+## Live Project
 👉 **https://i-am-dinesh-laptop-price-prediction-system-app-9764ps.streamlit.app/**
 
 # Business Problem
